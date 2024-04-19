@@ -10,7 +10,8 @@ export const CLIENT_MODS = {
     EQUICORD: "Equicord",
     SUNCORD: "Suncord",
     VELOCITY: "Velocity",
-    VENCORD: "Vencord"
+    VENCORD: "Vencord",
+    OPTI: "Opti",
 };
 
 export const addUser = (userId, mod, badges) => {
